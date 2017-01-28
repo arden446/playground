@@ -1,0 +1,19 @@
+commands
+ls: lists files
+cd: change directory
+echo: prints variables
+cat: spits whats in the file chosen
+
+text editor [vim]
+i: insert
+w: write
+q: quit
+to write commands: esc and then shift+colin
+
+research topics
+
+system commands
+vim editor 
+
+git is version control soft-wear
+git clone: clones repositories
